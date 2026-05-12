@@ -1,2 +1,1 @@
-# Dr-Crop
-an app which helps to farmers
+# Here are your Instructions
